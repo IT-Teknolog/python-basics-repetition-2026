@@ -1,4 +1,5 @@
 import basal_python_repetition
+
 # Alle følgende funktioner er testfunktioner
 # Din opgave er at oprette dem i filen basal_python_repetition.py
 # fx. skal der oprettes en funktion navngivet return_hello
